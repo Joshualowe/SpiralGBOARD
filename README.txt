@@ -8,7 +8,7 @@ Step 1; Software Setup.
 
 $ sudo apt-get install git
 
-$ git clone _________________________
+$Git clone https://github.com/Joshualowe/SpiralGBOARD.git
 
 $ Cd SpiralGBOARD
 
